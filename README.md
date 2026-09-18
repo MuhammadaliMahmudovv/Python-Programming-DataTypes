@@ -1,0 +1,5 @@
+# Python Programming | Data Types
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
+
+This repository contains practical assignments from the **EPAM Campus Python**
